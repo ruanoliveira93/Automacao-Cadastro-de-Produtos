@@ -1,4 +1,4 @@
-# Install Lib:
+# Install Libary:
 - pyautogui
 - time
 - pandas
